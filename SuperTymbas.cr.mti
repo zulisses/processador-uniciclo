@@ -1,0 +1,199 @@
+C:/Users/Ulisses/Desktop/SuperTymbas/SimulacaoGeral.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/SimulacaoGeral.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SimulacaoGeral
+
+Top level modules:
+	SimulacaoGeral
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/MUX3_8_simulacao.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/MUX3_8_simulacao.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX3_8_simulacao
+
+Top level modules:
+	MUX3_8_simulacao
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/MemoriaInstrucao.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/MemoriaInstrucao.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MemoriaInstrucao
+
+Top level modules:
+	MemoriaInstrucao
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/ULA.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/ULA.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ULA
+
+Top level modules:
+	ULA
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/Somador_simulacao.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/Somador_simulacao.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Somador_simulacao
+
+Top level modules:
+	Somador_simulacao
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/AND.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/AND.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module AND
+
+Top level modules:
+	AND
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/ExtensorDeSinal_simulacao.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/ExtensorDeSinal_simulacao.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ExtensorDeSinal_simulacao
+
+Top level modules:
+	ExtensorDeSinal_simulacao
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/MemoriaDados.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/MemoriaDados.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MemoriaDados
+
+Top level modules:
+	MemoriaDados
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/MUX2_3.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/MUX2_3.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX2_3
+
+Top level modules:
+	MUX2_3
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/ULA_simulacao.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/ULA_simulacao.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ULA
+-- Compiling module ULA_simulacao
+
+Top level modules:
+	ULA_simulacao
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/nRisc.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/nRisc.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module nRisc
+
+Top level modules:
+	nRisc
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/MemoriaInstrucao_simulacao.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/MemoriaInstrucao_simulacao.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MemoriaInstrucao_simulacao
+
+Top level modules:
+	MemoriaInstrucao_simulacao
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/MUX3_3.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/MUX3_3.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX3_3
+
+Top level modules:
+	MUX3_3
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/AND_simulacao.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/AND_simulacao.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module AND_simulacao
+
+Top level modules:
+	AND_simulacao
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/UnidadeControle.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/UnidadeControle.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UnidadeControle
+
+Top level modules:
+	UnidadeControle
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/BancoDeRegistradores.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/BancoDeRegistradores.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BancoDeRegistradores
+
+Top level modules:
+	BancoDeRegistradores
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/MemoriaDados_simulacao.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/MemoriaDados_simulacao.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MemoriaDados_simulacao
+
+Top level modules:
+	MemoriaDados_simulacao
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/MUX2_3_simulacao.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/MUX2_3_simulacao.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX2_3_simulacao
+
+Top level modules:
+	MUX2_3_simulacao
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/MUX2_8.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/MUX2_8.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX2_8
+
+Top level modules:
+	MUX2_8
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/PC.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/PC.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/MUX3_3_simulacao.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/MUX3_3_simulacao.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX3_3_simulacao
+
+Top level modules:
+	MUX3_3_simulacao
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/MUX3_8.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/MUX3_8.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX3_8
+
+Top level modules:
+	MUX3_8
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/UnidadeControle_simulacao.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/UnidadeControle_simulacao.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UnidadeControle_simulacao
+
+Top level modules:
+	UnidadeControle_simulacao
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/Somador.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/Somador.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Somador
+
+Top level modules:
+	Somador
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/BancoDeRegistradores_simulacao.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/BancoDeRegistradores_simulacao.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BancoDeRegistradores
+-- Compiling module BancoDeRegistradores_simulacao
+
+Top level modules:
+	BancoDeRegistradores_simulacao
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/ExtensorDeSinal.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/ExtensorDeSinal.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ExtensorDeSinal
+
+Top level modules:
+	ExtensorDeSinal
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/MUX2_8_simulacao.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/MUX2_8_simulacao.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX2_8_simulacao
+
+Top level modules:
+	MUX2_8_simulacao
+
+} {} {}} C:/Users/Ulisses/Desktop/SuperTymbas/PC_simulacao.v {1 {vlog -work work C:/Users/Ulisses/Desktop/SuperTymbas/PC_simulacao.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC_simulacao
+
+Top level modules:
+	PC_simulacao
+
+} {} {}}
